@@ -19,7 +19,7 @@ Documentation Here will be soon
 
 - [Kirill](https://github.com/kiruxa193)
 - [Vladimir](https://github.com/brzydki)
-- [Egor]([https://github.com/brzydki](https://github.com/DragonFet))
+- [Egor](https://github.com/DragonFet)
 
 ## License
 Project congratSystem is distributed under the MIT license.
